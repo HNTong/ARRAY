@@ -19,4 +19,4 @@ Benchmark Datasets and Source Code of the Paper "ARRAY: Adaptive Double Feature 
 - Step5: Click the run button in the manu of MATLAB Editor to run the Experiment.m; 
 
 
-If you have any question about ADFWTNB, do not hesitate to contact me (hntong@bjtu.edu.cn) or describe your question in Issues.
+If you have any question about ARRAY, do not hesitate to contact me (hntong@bjtu.edu.cn) or describe your question in Issues.
