@@ -7,8 +7,8 @@ Benchmark Datasets and Source Code of the Paper "ARRAY: Adaptive Double Feature 
 (2) RQ2 folder includes the source code of the used project.
 
 ## Experimental Environment
-(1) MATLAB R2018b
-(2) CPU：AMD Ryzen 5 4600U 2.10GHz  RAM 16GB  
+(1) MATLAB R2018b;
+(2) CPU：AMD Ryzen 5 4600U 2.10GHz  RAM 16GB;
 (3) Python3.6, weka-3.8.4
 
 ## Usage of ADFWTNB
